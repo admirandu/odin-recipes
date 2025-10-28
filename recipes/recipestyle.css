@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+h2 {
+	border: 5px solid firebrick;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+p {
+	padding: 10px;
+	text-align: justify;
+}
+
+h3 {
+	border: 5px solid orange;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+.content {
+	max-width: 1000px;
+	margin: auto;
+	padding: 25px;
+	background-color: #FAF9F6;
+	font-family: sans-serif;
+}
+img {
+	padding-left: 180px;
+}
+
+.description-container {
+	width: 800px;
+	margin: auto;
+	font-family: sans-serif;
+}
+
+.ingredients-container {
+	width: 800px;
+	margin: auto;
+}
+
+.steps-container {
+	width: 800px;
+	margin: auto;
+}
