@@ -30,6 +30,12 @@ h3 {
 }
 .image-container {
 	text-align: center;
+	padding: 15px;
+}
+
+.image-container img {
+	max-width: 100%;
+	height: auto;
 }
 
 .description-container {
